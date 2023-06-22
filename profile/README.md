@@ -1,4 +1,4 @@
-# VSCodeNers
+# 🖥️ VSCodeNers
 ```
 ✅ 한림대, 경상대 학생의 코딩 테스트 스터디
 ```
