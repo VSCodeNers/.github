@@ -6,7 +6,7 @@
 
 <br/>
 
-## [👩🏻‍💻 Algorithm Study 👨🏻‍💻](https://github.com/VSCodeNers/heo-goo-joe-0306)
+## [👩🏻‍💻 Java Study 👨🏻‍💻](https://github.com/VSCodeNers/heo-goo-joe-0306)
 in [BaekJoon](https://www.acmicpc.net/), [Programmers](https://school.programmers.co.kr/learn/challenges?)  
   
 Language: Java, Kotlin  
