@@ -19,5 +19,13 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 in Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
   
 Language: SQL  
-Start: 2022.09.25.일  
+Start: 2022.09.25.일 ~ 2023.09.17.일  
+Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
+
+<br/>
+
+## [🪪 정보처리기능사 Study](https://github.com/VSCodeNers/info-license)
+in 정보처리기능사 실기 문제집 2021, 2022  
+  
+Start: 2022.09.24.일  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
