@@ -24,7 +24,7 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 
 <br/>
 
-## [🪪 정보처리기능사 Study](https://github.com/VSCodeNers/info-license)
+## [🪪 정보처리기능사 실기 Study](https://github.com/VSCodeNers/info-license)
 in 정보처리기능사 실기 문제집 2021, 2022  
   
 Start: 2022.09.24.일  
