@@ -15,7 +15,7 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 
 <br/>
   
-## [✍🏻 Database Study](https://github.com/VSCodeNers/db-study)
+## [✍🏻 Database Study](https://github.com/VSCodeNers/db-study)  `Done`
 in Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
   
 Language: SQL  
