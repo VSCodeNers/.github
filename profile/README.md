@@ -5,7 +5,11 @@
 🕓 매주 목요일 19시 30분 in Discord
 ```
 
-<br/>
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVSCodeNers&count_bg=%23767676&title_bg=%23A0A0A0&icon=awesomelists.svg&icon_color=%23212121&title=VSCodeNers&edge_flat=false"/></a>
+</div>
+
+---
 
 ## [👩🏻‍💻 Java Study 👨🏻‍💻](https://github.com/VSCodeNers/heo-goo-joe-0306)  `Done`
 in [BaekJoon](https://www.acmicpc.net/), [Programmers](https://school.programmers.co.kr/learn/challenges?)  
