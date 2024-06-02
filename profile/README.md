@@ -40,7 +40,7 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 <br/>
 
 ## [🤓 JavaScript Study 🤓](https://github.com/VSCodeNers/heo-joe-js)
-in [Programmers](https://school.programmers.co.kr/learn/challenges?)  
+in [Programmers](https://school.programmers.co.kr/learn/challenges?), [Baekjoon](https://www.acmicpc.net/)  
   
 Language: JavaScript  
 Start: 2024.03.28.목 ~  
