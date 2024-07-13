@@ -2,7 +2,9 @@
 ```
 ✅ 한림대, 경상대 학생의 코딩테스트 대비 스터디
 🕓 매주 일요일 16시 in Discord ❌
-🕓 매주 목요일 19시 30분 in Discord
+🕓 매주 목요일 19시 30분 in Discord ❌
+🕓 매주 목요일 풀이 공유 ❌
+🕓 매주 일요일 19시 in Discord
 ```
 
 <div align="center">
@@ -27,16 +29,6 @@ Language: SQL
 Start: 2022.09.25.일 ~ 2023.09.17.일 (약 1년)  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
 
-<!--
-<br/>
-
-## [🪪 정보처리기능사 실기 Study](https://github.com/VSCodeNers/info-license)
-in 정보처리기능사 실기 문제집 2021, 2022  
-  
-Start: 2023.09.24.일 ~ X  
-Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
--->
-
 <br/>
 
 ## [🤓 JavaScript Study 🤓](https://github.com/VSCodeNers/heo-joe-js)
@@ -45,3 +37,10 @@ in [Programmers](https://school.programmers.co.kr/learn/challenges?), [Baekjoon]
 Language: JavaScript  
 Start: 2024.03.28.목 ~  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
+
+<br/>
+
+## 🌈 UI 구현 연습 스터디 🌈
+Start: 2024.07.07.일 ~  
+- [조정미](https://github.com/jung0115) : [Android](https://github.com/VSCodeNers/ui-study-android)
+- [허윤아](https://github.com/yoona1110) : [React.js](https://github.com/VSCodeNers/ui-study-react)
