@@ -40,7 +40,7 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 
 <br/>
 
-## 🌈 UI 구현 연습 스터디 🌈
+## [🌈 UI 구현 경험 연습 스터디 🌈](https://project0115jjm.notion.site/UI-9ee89918e99443468308aa2f3c2458bf)
 Start: 2024.07.07.일 ~  
 - [조정미](https://github.com/jung0115) : [Android](https://github.com/VSCodeNers/ui-study-android)
 - [허윤아](https://github.com/yoona1110) : [React.js](https://github.com/VSCodeNers/ui-study-react)
