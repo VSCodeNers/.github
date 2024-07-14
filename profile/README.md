@@ -1,11 +1,9 @@
 # 🖥️ VSCodeNers
-```
-✅ 한림대, 경상대 학생의 코딩테스트 대비 스터디
-🕓 매주 일요일 16시 in Discord ❌
-🕓 매주 목요일 19시 30분 in Discord ❌
-🕓 매주 목요일 풀이 공유 ❌
-🕓 매주 일요일 19시 in Discord
-```
+> ✅ 한림대, 경상대 학생의 코딩테스트 대비 + 개발 스터디  
+> ~~🕓 매주 일요일 16시 in Discord~~  
+> ~~🕓 매주 목요일 19시 30분 in Discord~~  
+> ~~🕓 매주 목요일 풀이 공유~~  
+> 🕓 매주 일요일 19시 in Discord  
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVSCodeNers&count_bg=%23767676&title_bg=%23A0A0A0&icon=awesomelists.svg&icon_color=%23212121&title=VSCodeNers&edge_flat=false"/></a>
