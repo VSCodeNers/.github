@@ -17,7 +17,7 @@
 in [BaekJoon](https://www.acmicpc.net/), [Programmers](https://school.programmers.co.kr/learn/challenges?)  
   
 Language: Java, Kotlin  
-Start: 2022.03.06.일 ~ 2023.11.04.토 (약 1년 8개월)  
+Period: 2022.03.06.일 ~ 2023.11.04.토 (약 1년 8개월)  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115), [구선화](https://github.com/Gu-sunhw), [한병재](https://github.com/Hanbyungjae), [김민석](https://github.com/mins8578)  
 
 <br/>
@@ -26,7 +26,7 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 in Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
   
 Language: SQL  
-Start: 2022.09.25.일 ~ 2023.09.17.일 (약 1년)  
+Period: 2022.09.25.일 ~ 2023.09.17.일 (약 1년)  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
 
 <br/>
@@ -35,12 +35,12 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 in [Programmers](https://school.programmers.co.kr/learn/challenges?), [Baekjoon](https://www.acmicpc.net/)  
   
 Language: JavaScript  
-Start: 2024.03.28.목 ~  
+Period: 2024.03.28.목 ~  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
 
 <br/>
 
 ## [🌈 UI 구현 경험 연습 스터디 🌈](https://project0115jjm.notion.site/UI-9ee89918e99443468308aa2f3c2458bf)
-Start: 2024.07.07.일 ~  
+Period: 2024.07.07.일 ~  
 - [조정미](https://github.com/jung0115) : [Android](https://github.com/VSCodeNers/ui-study-android)
 - [허윤아](https://github.com/yoona1110) : [React.js](https://github.com/VSCodeNers/ui-study-react)
