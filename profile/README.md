@@ -29,16 +29,25 @@ Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.c
 
 <br/>
 
-## [🤓 JavaScript Study 🤓](https://github.com/VSCodeNers/heo-joe-js)
+## [🤓 JavaScript Study 🤓](https://github.com/VSCodeNers/heo-joe-js) `Done`
 in [Programmers](https://school.programmers.co.kr/learn/challenges?), [Baekjoon](https://www.acmicpc.net/)  
   
 Language: JavaScript  
-Period: 2024.03.28.목 ~  
+Period: 2024.03.28.목 ~ 2024.08.25.일  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
 
 <br/>
 
-## [🌈 UI 구현 경험 연습 스터디 🌈](https://project0115jjm.notion.site/UI-9ee89918e99443468308aa2f3c2458bf)
+## [🌈 UI 구현 경험 연습 스터디 🌈](https://project0115jjm.notion.site/UI-9ee89918e99443468308aa2f3c2458bf) `Done`
 Period: 2024.07.07.일 ~ 2024.08.25.일  
 - [조정미](https://github.com/jung0115) : [Android](https://github.com/VSCodeNers/ui-study-android)
 - [허윤아](https://github.com/yoona1110) : [React.js](https://github.com/VSCodeNers/ui-study-react)
+
+<br/>
+
+## [💙 SWEA 코테 연습 💙](https://github.com/VSCodeNers/ssambbong_ssafy)
+in [SW Expert Academy](https://swexpertacademy.com/main/main.do)  
+
+Language: Java  
+Period: 2024.10.07.월 ~  
+Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
