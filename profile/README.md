@@ -45,9 +45,9 @@ Period: 2024.07.07.일 ~ 2024.08.25.일
 
 <br/>
 
-## [💙 SWEA 코테 연습 💙](https://github.com/VSCodeNers/ssambbong_ssafy)
+## [💙 SWEA 코테 연습 💙](https://github.com/VSCodeNers/ssambbong_ssafy) `Done`
 in [SW Expert Academy](https://swexpertacademy.com/main/main.do)  
 
 Language: Java  
-Period: 2024.10.07.월 ~  
+Period: 2024.10.07.월 ~ 2024.11.08.일  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
