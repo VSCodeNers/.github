@@ -3,7 +3,7 @@
 > ~~🕓 매주 일요일 16시 in Discord~~  
 > ~~🕓 매주 목요일 19시 30분 in Discord~~  
 > ~~🕓 매주 목요일 풀이 공유~~  
-> 🕓 매주 일요일 19시 in Discord  
+> ~~🕓 매주 일요일 19시 in Discord~~  
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVSCodeNers&count_bg=%23767676&title_bg=%23A0A0A0&icon=awesomelists.svg&icon_color=%23212121&title=VSCodeNers&edge_flat=false"/></a>
@@ -36,6 +36,7 @@ Language: JavaScript
 Period: 2024.03.28.목 ~ 2024.08.25.일  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
 
+<!--
 <br/>
 
 ## [🌈 UI 구현 경험 연습 스터디 🌈](https://project0115jjm.notion.site/UI-9ee89918e99443468308aa2f3c2458bf) `Done`
@@ -51,3 +52,4 @@ in [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 Language: Java  
 Period: 2024.10.07.월 ~ 2024.11.08.일  
 Members: [허윤아](https://github.com/yoona1110), [조정미](https://github.com/jung0115)  
+-->
